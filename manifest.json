@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Cliktionary",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Search Wiktionary for any text you right click.",
 
